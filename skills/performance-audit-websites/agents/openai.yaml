@@ -1,0 +1,4 @@
+interface:
+  display_name: "Website Performance Audit"
+  short_description: "Measure and improve real website performance"
+  default_prompt: "Use $performance-audit-websites to measure and repair the dominant runtime constraint within the requested scope."
